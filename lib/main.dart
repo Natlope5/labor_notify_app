@@ -47,7 +47,7 @@ class HomePage extends StatefulWidget {
 class HomePageState extends State<HomePage> {
   int storkClicks = 0;
   bool showLaborButton = false;
-  final DateTime dueDate = DateTime(2025, 12, 15);
+  final DateTime dueDate = DateTime(2025, 12, 31);
   late Timer _timer;
   Duration remaining = Duration();
 
@@ -175,7 +175,7 @@ class HomePageState extends State<HomePage> {
                   ),
                   const SizedBox(height: 20),
                   Text(
-                    "Baby Evie's is arriving soon!!",
+                    "Baby Evie is arriving soon!!",
                     style: Theme.of(context).textTheme.displayLarge,
                     textAlign: TextAlign.center,
                   ),
