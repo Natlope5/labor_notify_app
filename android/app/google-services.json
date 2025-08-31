@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "683394375104",
+    "project_id": "baby-evie-countdown",
+    "storage_bucket": "baby-evie-countdown.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683394375104:android:abdeee15172b17937a3c25",
+        "android_client_info": {
+          "package_name": "com.example.baby_evie_countdown"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2FlLST79fbZCK6bl4gEOPoGBDTGOtfWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683394375104:android:3063eb6f9059c7dc7a3c25",
+        "android_client_info": {
+          "package_name": "com.example.labor_notify_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2FlLST79fbZCK6bl4gEOPoGBDTGOtfWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
